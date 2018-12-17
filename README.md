@@ -11,7 +11,7 @@ The repository includes :
 
 *[train_class_name.csv](/data/train_class_name.csv]: This file contains the class names and class index for Open Image Dataset in train folder.
 
-* [inspect_model.ipynb](/inspect_model.ipynb) This notebook provides visualizations of every step of the pipeline for recognizing multi label on image.
+* [inspect_model.ipynb](inspect_model.ipynb) This notebook provides visualizations of every step of the pipeline for recognizing multi label on image.
 
 # Training on OIDv4
 you need OID_V4(Open Image Dataset V4) and put the dataset in data/OIDv4, if you want to train this model.
