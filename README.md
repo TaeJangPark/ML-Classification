@@ -15,4 +15,5 @@ The repository includes :
 
 # Training on OIDv4
 you need OID_V4(Open Image Dataset V4) and put the dataset in data/OIDv4, if you want to train this model.
+Run train.py
 
